@@ -24,15 +24,7 @@
 		align-items: center;
 	}
 
-	.logo {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-
-	.logo img {
-		width: 150px;
-		border-radius: 50px;
+	
 	}
 
 	.nav-list li {
